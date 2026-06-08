@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Abhishek 👋
 
-<!--
-**abishekuly/abishekuly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 BCA Graduate
+- 📚 MCA Aspirant
+- 💻 Learning Python and Software Development
+- 🔐 Interested in Cybersecurity
+- 🌱 Currently improving my programming and problem-solving skills
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Python
+- Git & GitHub
+- HTML & CSS
+- Basic SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals for 2026
+- Master Python
+- Build real-world projects
+- Learn Data Structures & Algorithms
+- Explore Cybersecurity
+- Contribute to Open Source
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+## 📫 Connect With Me
+- GitHub: https://github.com/abishekuly
+
+---
+⭐ Building my future one commit at a time.
